@@ -1,19 +1,14 @@
-# Core program week 3 assignment
-The week 2 assignment for the HackYourFuture Core program can be found at the following link: 
-https://hub.hackyourfuture.nl/core-program-week-3-assignment
-
+# Core program week X assignment
+HackYourFuture <Track> week X assignment
 
 ## Implementation Instructions
+Provide clear instructions on how trainees should implement the tasks.
+
 ### Task 1
-Write your code in `task-1/book.js`
+Instructions for Task 1
 
 ### Task 2
-Write your code in `task-2/parse-date.js`
+Instructions for Task 2
 
-### Task 3
-Write your code in `task-3`. Do not modify `example.js`. Implement the requirements in `date.js`.
-
-### Task 4
-Write your code in `task-4/.js`
 ...
 
