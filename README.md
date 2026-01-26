@@ -1,8 +1,8 @@
 # Core program week X assignment
 HackYourFuture <Track> week X assignment
 
-## Submission Instructions
-Provide clear instructions on how students should submit their assignments.
+## Implementation Instructions
+Provide clear instructions on how trainees should implement the tasks.
 
 ### Task 1
 Instructions for Task 1
