@@ -1,4 +1,4 @@
-# HackYourFuture Assignment Template
+# Core program week X assignment
 HackYourFuture <Track> week X assignment
 
 ## Submission Instructions
